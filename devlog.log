@@ -1,0 +1,23 @@
+5/10/2024 - Started Project, Decided on using React, Node, Express and a RDBMS with TypeScript, 
+Initialized Project Structure and Directory, Used Vite to create react frontend app using
+**npm create vite@latest frontend -- --template react-ts**.
+
+Installed Libraries and Dependencies: 
+TypeScript (frontend, backend) Typed JavaScript
+Tailwind CSS (frontend) inline shorthand styling library
+Express (backend) Lightweight backend framework for writing REST APIs
+Axios (frontend, backend) HTTP requests
+Nodemon [DevDependency](backend) hot reloading on the backend
+TS Jest [DevDependency](frontend, backend) TypeScript Testing
+Cors (backend) Allows Cross Origin Resource Sharing
+dotenv (backend) enables ENV variables
+React-Router-Dom (frontend) frontend routing
+
+Made basic configurations for TypeScript and Tailwind
+
+8/10/2024 - Decided on combining the use of TypeORM an Object Relational Mapping Database Abstraction Library and
+the traditional MySQL connection driver
+
+Installed Libraries:
+TypeORM
+MySQL2
